@@ -1,5 +1,5 @@
 # DCY_CryptoWallet
-<p>Проект был сверстан по макету https://www.figma.com/design/XucTg4xXlb8zE3zNBb8Skx/DCY-Mobile-Crypto-Wallet-(Free)-(Community)?t=YPY8dD0jf35V04OY-0, только до главного экрана (дальше только скрины)</p>
+<p>Проект был сверстан по макету https://www.figma.com/design/XucTg4xXlb8zE3zNBb8Skx/DCY-Mobile-Crypto-Wallet-(Free)-(Community)?t=YPY8dD0jf35V04OY-0, только до главного экрана</p>
 
 <p>
   <img src="/../screens/Screenshot_2024-07-30-13-49-52-086_yunuiy_hacker.ryzhaya_tetenka.dcy.jpg" width="200" alt="Картинка 1"/>
